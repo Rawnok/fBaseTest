@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1079601990673",
+    "firebase_url": "https://hazaritest.firebaseio.com",
+    "project_id": "hazaritest",
+    "storage_bucket": "hazaritest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079601990673:android:af95ddd9da67cbea",
+        "android_client_info": {
+          "package_name": "com.ulkagames.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079601990673-la30tdtkthf7k0qo9uat0p4rk29rlh7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ulkagames.firebasetest",
+            "certificate_hash": "1bf014da616271c9fcccbb493724cf7522ae5bf1"
+          }
+        },
+        {
+          "client_id": "1079601990673-ei9943rqoq279jgkr7dj18q2qeh6s8o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQDrEvNM4pJx7FImoiaCzQutazqtfALL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079601990673-ei9943rqoq279jgkr7dj18q2qeh6s8o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
